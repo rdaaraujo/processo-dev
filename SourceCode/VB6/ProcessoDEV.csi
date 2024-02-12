@@ -1,0 +1,22 @@
+[History]
+1=#P0#=mb	#P1#=OpenConnection	#P2#=ProcessoDEV/GeralMod/OpenConnection	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20240212164459	#P7#=0	#P8#=12	.
+2=#P0#=mb	#P1#=ConfigJanela	#P2#=ProcessoDEV/AjusteMod/ConfigJanela	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20240212164237	#P7#=0	#P8#=2	.
+3=#P0#=mb	#P1#=AtualizaCliente	#P2#=ProcessoDEV/CRUDMod/AtualizaCliente	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20240212155225	#P7#=0	#P8#=24	.
+4=#P0#=mb	#P1#=Form_Resize	#P2#=ProcessoDEV/ClientesFrm/Form_Resize	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20240212145124	#P7#=0	#P8#=4	.
+5=#P0#=mb	#P1#=CarregaDadosgridEstoque	#P2#=ProcessoDEV/AjusteMod/CarregaDadosgridEstoque	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20240212144936	#P7#=0	#P8#=15	.
+6=#P0#=mb	#P1#=DelTodosClientes	#P2#=ProcessoDEV/CRUDMod/DelTodosClientes	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20240212144919	#P7#=0	#P8#=8	.
+7=#P0#=mb	#P1#=LimpaDadosgridEstoque	#P2#=ProcessoDEV/AjusteMod/LimpaDadosgridEstoque	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20240212144759	#P7#=0	#P8#=9	.
+8=#P0#=mb	#P1#=ImportarArquivoLote	#P2#=ProcessoDEV/CRUDMod/ImportarArquivoLote	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20240212144651	#P7#=0	#P8#=53	.
+9=#P0#=mb	#P1#=txtIdCliente_KeyPress	#P2#=ProcessoDEV/ClientesFrm/txtIdCliente_KeyPress	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20240212144635	#P7#=0	#P8#=-2	.
+10=#P0#=mb	#P1#=cmdAtualizarCliente_Click	#P2#=ProcessoDEV/ClientesFrm/cmdAtualizarCliente_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20240212144628	#P7#=0	#P8#=9	.
+11=#P0#=mb	#P1#=cmdImportar_Click	#P2#=ProcessoDEV/ClientesFrm/cmdImportar_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20240212144624	#P7#=0	#P8#=7	.
+12=#P0#=mb	#P1#=cmdDeletarCliente_Click	#P2#=ProcessoDEV/ClientesFrm/cmdDeletarCliente_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20240212144611	#P7#=0	#P8#=-1	.
+13=#P0#=mb	#P1#=cmdDelAllCli_Click	#P2#=ProcessoDEV/ClientesFrm/cmdDelAllCli_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20240212144606	#P7#=0	#P8#=-2	.
+14=#P0#=mb	#P1#=Form_Unload	#P2#=ProcessoDEV/ClientesFrm/Form_Unload	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20240212144605	#P7#=0	#P8#=4	.
+15=#P0#=mb	#P1#=cmdCancelar_Click	#P2#=ProcessoDEV/ClientesFrm/cmdCancelar_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20240212144447	#P7#=0	#P8#=10	.
+16=#P0#=mb	#P1#=ValidaEntradaTxt	#P2#=ProcessoDEV/AjusteMod/ValidaEntradaTxt	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20240212144429	#P7#=0	#P8#=0	.
+17=#P0#=mb	#P1#=Form_Load	#P2#=ProcessoDEV/ClientesFrm/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20240212143915	#P7#=0	#P8#=4	.
+18=#P0#=mb	#P1#=DeletarCliente	#P2#=ProcessoDEV/CRUDMod/DeletarCliente	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20240212143539	#P7#=0	#P8#=9	.
+19=#P0#=mb	#P1#=cmdImport_Click	#P2#=ProcessoDEV/ClientesFrm/cmdImport_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20240212143404	#P7#=0	#P8#=9	.
+20=#P0#=mb	#P1#=barMenu_ButtonClick	#P2#=ProcessoDEV/ClientesFrm/barMenu_ButtonClick	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20240212143402	#P7#=0	#P8#=12	.
+21=#P0#=mb	#P1#=EscreveLog	#P2#=ProcessoDEV/CRUDMod/EscreveLog	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20240212140633	#P7#=0	#P8#=0	.

@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "4 - Domain/1.0.0": {
+        "dependencies": {
+          "jQuery": "3.6.4",
+          "jquery.mask": "1.14.16"
+        },
+        "runtime": {
+          "4 - Domain.dll": {}
+        }
+      },
+      "jQuery/3.6.4": {},
+      "jquery.mask/1.14.16": {
+        "dependencies": {
+          "jQuery": "3.6.4"
+        }
+      }
+    }
+  },
+  "libraries": {
+    "4 - Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "jQuery/3.6.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6p9twP9WU+SPZPH5ArBBrXeesAEAlwuyw2tFbqcqQj5CARfh6R+v1216WkBGaeJJu7gZw2lLG+7Nh/XOylcsqg==",
+      "path": "jquery/3.6.4",
+      "hashPath": "jquery.3.6.4.nupkg.sha512"
+    },
+    "jquery.mask/1.14.16": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-S1gXi0ch/FY4+ii2M2YwFV3ZuZHCvAI2+o8KrSfQxHq1J/F6xYZN7B6ONOR9k3YUTwAl+r3miZAFnkd/HWwNng==",
+      "path": "jquery.mask/1.14.16",
+      "hashPath": "jquery.mask.1.14.16.nupkg.sha512"
+    }
+  }
+}

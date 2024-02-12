@@ -1,0 +1,5 @@
+﻿id;nome_str;situacao_str;cpf_str;data_nascimento;endereco_str;telefone_str;email_str
+1;Cesar Lucca Vinicius Campos;ABERTO;20498612902;11/02/1991;Rua Guanabara, 13;68989526810;cesar.lucca.campos@decorsul.com
+2;Raimundo Kaique Yago Drumond;BAIXADO;52251225668;23/01/1953;Rua Ubaira, 675;77985656796;raimundo.kaique.drumond@lumavale.com.br
+3;Aurora Raquel Galvao;ABERTO;92623895155;23/01/2000;Rua Luis Dittma, 883;67985932258;aurora.raquel.galvao@endoimplantes.com.br
+4;Stefany Alana Mendes;BAIXADO;55992324330;05/01/1998;Travessa Sarney Filho, 410;98993397006;stefany_mendes@yaooh.com

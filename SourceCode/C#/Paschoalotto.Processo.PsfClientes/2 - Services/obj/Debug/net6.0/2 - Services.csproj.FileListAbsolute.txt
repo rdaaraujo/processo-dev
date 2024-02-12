@@ -1,0 +1,85 @@
+C:\Users\radaaraujo\source\repos\Paschoalotto.Teste.Processo.ViaApiCEP\2 - Services\bin\Debug\net6.0\2 - Services.deps.json
+C:\Users\radaaraujo\source\repos\Paschoalotto.Teste.Processo.ViaApiCEP\2 - Services\bin\Debug\net6.0\2 - Services.dll
+C:\Users\radaaraujo\source\repos\Paschoalotto.Teste.Processo.ViaApiCEP\2 - Services\bin\Debug\net6.0\2 - Services.pdb
+C:\Users\radaaraujo\source\repos\Paschoalotto.Teste.Processo.ViaApiCEP\2 - Services\bin\Debug\net6.0\3 - Infra.dll
+C:\Users\radaaraujo\source\repos\Paschoalotto.Teste.Processo.ViaApiCEP\2 - Services\bin\Debug\net6.0\4 - Domain.dll
+C:\Users\radaaraujo\source\repos\Paschoalotto.Teste.Processo.ViaApiCEP\2 - Services\bin\Debug\net6.0\3 - Infra.pdb
+C:\Users\radaaraujo\source\repos\Paschoalotto.Teste.Processo.ViaApiCEP\2 - Services\bin\Debug\net6.0\4 - Domain.pdb
+C:\Users\radaaraujo\source\repos\Paschoalotto.Teste.Processo.ViaApiCEP\2 - Services\obj\Debug\net6.0\2 - Services.csproj.AssemblyReference.cache
+C:\Users\radaaraujo\source\repos\Paschoalotto.Teste.Processo.ViaApiCEP\2 - Services\obj\Debug\net6.0\2 - Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radaaraujo\source\repos\Paschoalotto.Teste.Processo.ViaApiCEP\2 - Services\obj\Debug\net6.0\2 - Services.AssemblyInfoInputs.cache
+C:\Users\radaaraujo\source\repos\Paschoalotto.Teste.Processo.ViaApiCEP\2 - Services\obj\Debug\net6.0\2 - Services.AssemblyInfo.cs
+C:\Users\radaaraujo\source\repos\Paschoalotto.Teste.Processo.ViaApiCEP\2 - Services\obj\Debug\net6.0\2 - Services.csproj.CoreCompileInputs.cache
+C:\Users\radaaraujo\source\repos\Paschoalotto.Teste.Processo.ViaApiCEP\2 - Services\obj\Debug\net6.0\2 - Services.csproj.CopyComplete
+C:\Users\radaaraujo\source\repos\Paschoalotto.Teste.Processo.ViaApiCEP\2 - Services\obj\Debug\net6.0\2 - Services.dll
+C:\Users\radaaraujo\source\repos\Paschoalotto.Teste.Processo.ViaApiCEP\2 - Services\obj\Debug\net6.0\refint\2 - Services.dll
+C:\Users\radaaraujo\source\repos\Paschoalotto.Teste.Processo.ViaApiCEP\2 - Services\obj\Debug\net6.0\2 - Services.pdb
+C:\Users\radaaraujo\source\repos\Paschoalotto.Teste.Processo.ViaApiCEP\2 - Services\obj\Debug\net6.0\ref\2 - Services.dll
+C:\Users\radaaraujo\Desktop\RAFAO\PROCESSO\desafioCodigo\Paschoalotto.Teste.Processo.ViaApiCEP\2 - Services\bin\Debug\net6.0\2 - Services.deps.json
+C:\Users\radaaraujo\Desktop\RAFAO\PROCESSO\desafioCodigo\Paschoalotto.Teste.Processo.ViaApiCEP\2 - Services\bin\Debug\net6.0\2 - Services.dll
+C:\Users\radaaraujo\Desktop\RAFAO\PROCESSO\desafioCodigo\Paschoalotto.Teste.Processo.ViaApiCEP\2 - Services\bin\Debug\net6.0\2 - Services.pdb
+C:\Users\radaaraujo\Desktop\RAFAO\PROCESSO\desafioCodigo\Paschoalotto.Teste.Processo.ViaApiCEP\2 - Services\bin\Debug\net6.0\3 - Infra.dll
+C:\Users\radaaraujo\Desktop\RAFAO\PROCESSO\desafioCodigo\Paschoalotto.Teste.Processo.ViaApiCEP\2 - Services\bin\Debug\net6.0\4 - Domain.dll
+C:\Users\radaaraujo\Desktop\RAFAO\PROCESSO\desafioCodigo\Paschoalotto.Teste.Processo.ViaApiCEP\2 - Services\bin\Debug\net6.0\3 - Infra.pdb
+C:\Users\radaaraujo\Desktop\RAFAO\PROCESSO\desafioCodigo\Paschoalotto.Teste.Processo.ViaApiCEP\2 - Services\bin\Debug\net6.0\4 - Domain.pdb
+C:\Users\radaaraujo\Desktop\RAFAO\PROCESSO\desafioCodigo\Paschoalotto.Teste.Processo.ViaApiCEP\2 - Services\obj\Debug\net6.0\2 - Services.csproj.AssemblyReference.cache
+C:\Users\radaaraujo\Desktop\RAFAO\PROCESSO\desafioCodigo\Paschoalotto.Teste.Processo.ViaApiCEP\2 - Services\obj\Debug\net6.0\2 - Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radaaraujo\Desktop\RAFAO\PROCESSO\desafioCodigo\Paschoalotto.Teste.Processo.ViaApiCEP\2 - Services\obj\Debug\net6.0\2 - Services.AssemblyInfoInputs.cache
+C:\Users\radaaraujo\Desktop\RAFAO\PROCESSO\desafioCodigo\Paschoalotto.Teste.Processo.ViaApiCEP\2 - Services\obj\Debug\net6.0\2 - Services.AssemblyInfo.cs
+C:\Users\radaaraujo\Desktop\RAFAO\PROCESSO\desafioCodigo\Paschoalotto.Teste.Processo.ViaApiCEP\2 - Services\obj\Debug\net6.0\2 - Services.csproj.CoreCompileInputs.cache
+C:\Users\radaaraujo\Desktop\RAFAO\PROCESSO\desafioCodigo\Paschoalotto.Teste.Processo.ViaApiCEP\2 - Services\obj\Debug\net6.0\2 - Services.csproj.CopyComplete
+C:\Users\radaaraujo\Desktop\RAFAO\PROCESSO\desafioCodigo\Paschoalotto.Teste.Processo.ViaApiCEP\2 - Services\obj\Debug\net6.0\2 - Services.dll
+C:\Users\radaaraujo\Desktop\RAFAO\PROCESSO\desafioCodigo\Paschoalotto.Teste.Processo.ViaApiCEP\2 - Services\obj\Debug\net6.0\refint\2 - Services.dll
+C:\Users\radaaraujo\Desktop\RAFAO\PROCESSO\desafioCodigo\Paschoalotto.Teste.Processo.ViaApiCEP\2 - Services\obj\Debug\net6.0\2 - Services.pdb
+C:\Users\radaaraujo\Desktop\RAFAO\PROCESSO\desafioCodigo\Paschoalotto.Teste.Processo.ViaApiCEP\2 - Services\obj\Debug\net6.0\ref\2 - Services.dll
+C:\Users\radaaraujo\Documents\PROCESSO\DESAFIO TECNICO - Rafael de Almeida Araújo\Arquivos\2- CSharp\API\Paschoalotto.Teste.Processo.PsfVeiculos\2 - Services\bin\Debug\net6.0\2 - Services.deps.json
+C:\Users\radaaraujo\Documents\PROCESSO\DESAFIO TECNICO - Rafael de Almeida Araújo\Arquivos\2- CSharp\API\Paschoalotto.Teste.Processo.PsfVeiculos\2 - Services\bin\Debug\net6.0\2 - Services.dll
+C:\Users\radaaraujo\Documents\PROCESSO\DESAFIO TECNICO - Rafael de Almeida Araújo\Arquivos\2- CSharp\API\Paschoalotto.Teste.Processo.PsfVeiculos\2 - Services\bin\Debug\net6.0\2 - Services.pdb
+C:\Users\radaaraujo\Documents\PROCESSO\DESAFIO TECNICO - Rafael de Almeida Araújo\Arquivos\2- CSharp\API\Paschoalotto.Teste.Processo.PsfVeiculos\2 - Services\bin\Debug\net6.0\3 - Infra.dll
+C:\Users\radaaraujo\Documents\PROCESSO\DESAFIO TECNICO - Rafael de Almeida Araújo\Arquivos\2- CSharp\API\Paschoalotto.Teste.Processo.PsfVeiculos\2 - Services\bin\Debug\net6.0\4 - Domain.dll
+C:\Users\radaaraujo\Documents\PROCESSO\DESAFIO TECNICO - Rafael de Almeida Araújo\Arquivos\2- CSharp\API\Paschoalotto.Teste.Processo.PsfVeiculos\2 - Services\bin\Debug\net6.0\3 - Infra.pdb
+C:\Users\radaaraujo\Documents\PROCESSO\DESAFIO TECNICO - Rafael de Almeida Araújo\Arquivos\2- CSharp\API\Paschoalotto.Teste.Processo.PsfVeiculos\2 - Services\bin\Debug\net6.0\4 - Domain.pdb
+C:\Users\radaaraujo\Documents\PROCESSO\DESAFIO TECNICO - Rafael de Almeida Araújo\Arquivos\2- CSharp\API\Paschoalotto.Teste.Processo.PsfVeiculos\2 - Services\obj\Debug\net6.0\2 - Services.csproj.AssemblyReference.cache
+C:\Users\radaaraujo\Documents\PROCESSO\DESAFIO TECNICO - Rafael de Almeida Araújo\Arquivos\2- CSharp\API\Paschoalotto.Teste.Processo.PsfVeiculos\2 - Services\obj\Debug\net6.0\2 - Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radaaraujo\Documents\PROCESSO\DESAFIO TECNICO - Rafael de Almeida Araújo\Arquivos\2- CSharp\API\Paschoalotto.Teste.Processo.PsfVeiculos\2 - Services\obj\Debug\net6.0\2 - Services.AssemblyInfoInputs.cache
+C:\Users\radaaraujo\Documents\PROCESSO\DESAFIO TECNICO - Rafael de Almeida Araújo\Arquivos\2- CSharp\API\Paschoalotto.Teste.Processo.PsfVeiculos\2 - Services\obj\Debug\net6.0\2 - Services.AssemblyInfo.cs
+C:\Users\radaaraujo\Documents\PROCESSO\DESAFIO TECNICO - Rafael de Almeida Araújo\Arquivos\2- CSharp\API\Paschoalotto.Teste.Processo.PsfVeiculos\2 - Services\obj\Debug\net6.0\2 - Services.csproj.CoreCompileInputs.cache
+C:\Users\radaaraujo\Documents\PROCESSO\DESAFIO TECNICO - Rafael de Almeida Araújo\Arquivos\2- CSharp\API\Paschoalotto.Teste.Processo.PsfVeiculos\2 - Services\obj\Debug\net6.0\2 - Services.csproj.CopyComplete
+C:\Users\radaaraujo\Documents\PROCESSO\DESAFIO TECNICO - Rafael de Almeida Araújo\Arquivos\2- CSharp\API\Paschoalotto.Teste.Processo.PsfVeiculos\2 - Services\obj\Debug\net6.0\2 - Services.dll
+C:\Users\radaaraujo\Documents\PROCESSO\DESAFIO TECNICO - Rafael de Almeida Araújo\Arquivos\2- CSharp\API\Paschoalotto.Teste.Processo.PsfVeiculos\2 - Services\obj\Debug\net6.0\refint\2 - Services.dll
+C:\Users\radaaraujo\Documents\PROCESSO\DESAFIO TECNICO - Rafael de Almeida Araújo\Arquivos\2- CSharp\API\Paschoalotto.Teste.Processo.PsfVeiculos\2 - Services\obj\Debug\net6.0\2 - Services.pdb
+C:\Users\radaaraujo\Documents\PROCESSO\DESAFIO TECNICO - Rafael de Almeida Araújo\Arquivos\2- CSharp\API\Paschoalotto.Teste.Processo.PsfVeiculos\2 - Services\obj\Debug\net6.0\ref\2 - Services.dll
+C:\Users\radaaraujo\Documents\PROCESSO2\DESAFIO TECNICO - Rafael de Almeida Araújo\Arquivos\2- CSharp\API\Paschoalotto.Teste.Processo.PsfVeiculos\2 - Services\bin\Debug\net6.0\2 - Services.deps.json
+C:\Users\radaaraujo\Documents\PROCESSO2\DESAFIO TECNICO - Rafael de Almeida Araújo\Arquivos\2- CSharp\API\Paschoalotto.Teste.Processo.PsfVeiculos\2 - Services\bin\Debug\net6.0\2 - Services.dll
+C:\Users\radaaraujo\Documents\PROCESSO2\DESAFIO TECNICO - Rafael de Almeida Araújo\Arquivos\2- CSharp\API\Paschoalotto.Teste.Processo.PsfVeiculos\2 - Services\bin\Debug\net6.0\2 - Services.pdb
+C:\Users\radaaraujo\Documents\PROCESSO2\DESAFIO TECNICO - Rafael de Almeida Araújo\Arquivos\2- CSharp\API\Paschoalotto.Teste.Processo.PsfVeiculos\2 - Services\bin\Debug\net6.0\3 - Infra.dll
+C:\Users\radaaraujo\Documents\PROCESSO2\DESAFIO TECNICO - Rafael de Almeida Araújo\Arquivos\2- CSharp\API\Paschoalotto.Teste.Processo.PsfVeiculos\2 - Services\bin\Debug\net6.0\4 - Domain.dll
+C:\Users\radaaraujo\Documents\PROCESSO2\DESAFIO TECNICO - Rafael de Almeida Araújo\Arquivos\2- CSharp\API\Paschoalotto.Teste.Processo.PsfVeiculos\2 - Services\bin\Debug\net6.0\3 - Infra.pdb
+C:\Users\radaaraujo\Documents\PROCESSO2\DESAFIO TECNICO - Rafael de Almeida Araújo\Arquivos\2- CSharp\API\Paschoalotto.Teste.Processo.PsfVeiculos\2 - Services\bin\Debug\net6.0\4 - Domain.pdb
+C:\Users\radaaraujo\Documents\PROCESSO2\DESAFIO TECNICO - Rafael de Almeida Araújo\Arquivos\2- CSharp\API\Paschoalotto.Teste.Processo.PsfVeiculos\2 - Services\obj\Debug\net6.0\2 - Services.csproj.AssemblyReference.cache
+C:\Users\radaaraujo\Documents\PROCESSO2\DESAFIO TECNICO - Rafael de Almeida Araújo\Arquivos\2- CSharp\API\Paschoalotto.Teste.Processo.PsfVeiculos\2 - Services\obj\Debug\net6.0\2 - Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radaaraujo\Documents\PROCESSO2\DESAFIO TECNICO - Rafael de Almeida Araújo\Arquivos\2- CSharp\API\Paschoalotto.Teste.Processo.PsfVeiculos\2 - Services\obj\Debug\net6.0\2 - Services.AssemblyInfoInputs.cache
+C:\Users\radaaraujo\Documents\PROCESSO2\DESAFIO TECNICO - Rafael de Almeida Araújo\Arquivos\2- CSharp\API\Paschoalotto.Teste.Processo.PsfVeiculos\2 - Services\obj\Debug\net6.0\2 - Services.AssemblyInfo.cs
+C:\Users\radaaraujo\Documents\PROCESSO2\DESAFIO TECNICO - Rafael de Almeida Araújo\Arquivos\2- CSharp\API\Paschoalotto.Teste.Processo.PsfVeiculos\2 - Services\obj\Debug\net6.0\2 - Services.csproj.CoreCompileInputs.cache
+C:\Users\radaaraujo\Documents\PROCESSO2\DESAFIO TECNICO - Rafael de Almeida Araújo\Arquivos\2- CSharp\API\Paschoalotto.Teste.Processo.PsfVeiculos\2 - Services\obj\Debug\net6.0\2 - Services.csproj.CopyComplete
+C:\Users\radaaraujo\Documents\PROCESSO2\DESAFIO TECNICO - Rafael de Almeida Araújo\Arquivos\2- CSharp\API\Paschoalotto.Teste.Processo.PsfVeiculos\2 - Services\obj\Debug\net6.0\2 - Services.dll
+C:\Users\radaaraujo\Documents\PROCESSO2\DESAFIO TECNICO - Rafael de Almeida Araújo\Arquivos\2- CSharp\API\Paschoalotto.Teste.Processo.PsfVeiculos\2 - Services\obj\Debug\net6.0\refint\2 - Services.dll
+C:\Users\radaaraujo\Documents\PROCESSO2\DESAFIO TECNICO - Rafael de Almeida Araújo\Arquivos\2- CSharp\API\Paschoalotto.Teste.Processo.PsfVeiculos\2 - Services\obj\Debug\net6.0\2 - Services.pdb
+C:\Users\radaaraujo\Documents\PROCESSO2\DESAFIO TECNICO - Rafael de Almeida Araújo\Arquivos\2- CSharp\API\Paschoalotto.Teste.Processo.PsfVeiculos\2 - Services\obj\Debug\net6.0\ref\2 - Services.dll
+C:\Users\radaaraujo\Documents\repo\Paschoalotto.Processo.PsfClientes\2 - Services\bin\Debug\net6.0\2 - Services.deps.json
+C:\Users\radaaraujo\Documents\repo\Paschoalotto.Processo.PsfClientes\2 - Services\bin\Debug\net6.0\2 - Services.dll
+C:\Users\radaaraujo\Documents\repo\Paschoalotto.Processo.PsfClientes\2 - Services\bin\Debug\net6.0\2 - Services.pdb
+C:\Users\radaaraujo\Documents\repo\Paschoalotto.Processo.PsfClientes\2 - Services\bin\Debug\net6.0\3 - Infra.dll
+C:\Users\radaaraujo\Documents\repo\Paschoalotto.Processo.PsfClientes\2 - Services\bin\Debug\net6.0\4 - Domain.dll
+C:\Users\radaaraujo\Documents\repo\Paschoalotto.Processo.PsfClientes\2 - Services\bin\Debug\net6.0\3 - Infra.pdb
+C:\Users\radaaraujo\Documents\repo\Paschoalotto.Processo.PsfClientes\2 - Services\bin\Debug\net6.0\4 - Domain.pdb
+C:\Users\radaaraujo\Documents\repo\Paschoalotto.Processo.PsfClientes\2 - Services\obj\Debug\net6.0\2 - Services.csproj.AssemblyReference.cache
+C:\Users\radaaraujo\Documents\repo\Paschoalotto.Processo.PsfClientes\2 - Services\obj\Debug\net6.0\2 - Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radaaraujo\Documents\repo\Paschoalotto.Processo.PsfClientes\2 - Services\obj\Debug\net6.0\2 - Services.AssemblyInfoInputs.cache
+C:\Users\radaaraujo\Documents\repo\Paschoalotto.Processo.PsfClientes\2 - Services\obj\Debug\net6.0\2 - Services.AssemblyInfo.cs
+C:\Users\radaaraujo\Documents\repo\Paschoalotto.Processo.PsfClientes\2 - Services\obj\Debug\net6.0\2 - Services.csproj.CoreCompileInputs.cache
+C:\Users\radaaraujo\Documents\repo\Paschoalotto.Processo.PsfClientes\2 - Services\obj\Debug\net6.0\2 - Services.csproj.CopyComplete
+C:\Users\radaaraujo\Documents\repo\Paschoalotto.Processo.PsfClientes\2 - Services\obj\Debug\net6.0\2 - Services.dll
+C:\Users\radaaraujo\Documents\repo\Paschoalotto.Processo.PsfClientes\2 - Services\obj\Debug\net6.0\refint\2 - Services.dll
+C:\Users\radaaraujo\Documents\repo\Paschoalotto.Processo.PsfClientes\2 - Services\obj\Debug\net6.0\2 - Services.pdb
+C:\Users\radaaraujo\Documents\repo\Paschoalotto.Processo.PsfClientes\2 - Services\obj\Debug\net6.0\ref\2 - Services.dll

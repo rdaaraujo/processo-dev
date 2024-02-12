@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "wSrbn5/QYLiCcgOMXaE0CrJyRsxPzBeBabcbWJL4Jn0clrEXqZ93co4zXeMgANbh+bmmeRZUlneYZffgmIGYcg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\radaaraujo\\Documents\\repo\\Paschoalotto.Processo.PsfClientes\\3 - Infra\\3 - Infra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\radaaraujo\\.nuget\\packages\\jquery\\3.6.4\\jquery.3.6.4.nupkg.sha512",
+    "C:\\Users\\radaaraujo\\.nuget\\packages\\jquery.mask\\1.14.16\\jquery.mask.1.14.16.nupkg.sha512",
+    "C:\\Users\\radaaraujo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\radaaraujo\\.nuget\\packages\\npgsql\\7.0.2\\npgsql.7.0.2.nupkg.sha512",
+    "C:\\Users\\radaaraujo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://10.108.50.195/PSTech/Nuget.Server/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
