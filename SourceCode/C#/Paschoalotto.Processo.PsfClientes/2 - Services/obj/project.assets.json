@@ -303,11 +303,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\radaaraujo\\Documents\\repo\\Paschoalotto.Processo.PsfClientes\\2 - Services\\2 - Services.csproj",
+      "projectUniqueName": "C:\\Users\\radaaraujo\\Documents\\ClientesPSF\\SourceCode\\C#\\Paschoalotto.Processo.PsfClientes\\2 - Services\\2 - Services.csproj",
       "projectName": "2 - Services",
-      "projectPath": "C:\\Users\\radaaraujo\\Documents\\repo\\Paschoalotto.Processo.PsfClientes\\2 - Services\\2 - Services.csproj",
+      "projectPath": "C:\\Users\\radaaraujo\\Documents\\ClientesPSF\\SourceCode\\C#\\Paschoalotto.Processo.PsfClientes\\2 - Services\\2 - Services.csproj",
       "packagesPath": "C:\\Users\\radaaraujo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\radaaraujo\\Documents\\repo\\Paschoalotto.Processo.PsfClientes\\2 - Services\\obj\\",
+      "outputPath": "C:\\Users\\radaaraujo\\Documents\\ClientesPSF\\SourceCode\\C#\\Paschoalotto.Processo.PsfClientes\\2 - Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -332,11 +332,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\radaaraujo\\Documents\\repo\\Paschoalotto.Processo.PsfClientes\\3 - Infra\\3 - Infra.csproj": {
-              "projectPath": "C:\\Users\\radaaraujo\\Documents\\repo\\Paschoalotto.Processo.PsfClientes\\3 - Infra\\3 - Infra.csproj"
+            "C:\\Users\\radaaraujo\\Documents\\ClientesPSF\\SourceCode\\C#\\Paschoalotto.Processo.PsfClientes\\3 - Infra\\3 - Infra.csproj": {
+              "projectPath": "C:\\Users\\radaaraujo\\Documents\\ClientesPSF\\SourceCode\\C#\\Paschoalotto.Processo.PsfClientes\\3 - Infra\\3 - Infra.csproj"
             },
-            "C:\\Users\\radaaraujo\\Documents\\repo\\Paschoalotto.Processo.PsfClientes\\4 - Domain\\4 - Domain.csproj": {
-              "projectPath": "C:\\Users\\radaaraujo\\Documents\\repo\\Paschoalotto.Processo.PsfClientes\\4 - Domain\\4 - Domain.csproj"
+            "C:\\Users\\radaaraujo\\Documents\\ClientesPSF\\SourceCode\\C#\\Paschoalotto.Processo.PsfClientes\\4 - Domain\\4 - Domain.csproj": {
+              "projectPath": "C:\\Users\\radaaraujo\\Documents\\ClientesPSF\\SourceCode\\C#\\Paschoalotto.Processo.PsfClientes\\4 - Domain\\4 - Domain.csproj"
             }
           }
         }

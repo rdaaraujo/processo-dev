@@ -13,5 +13,3 @@ Public Sub OpenConnection()
     conn.Open strConn
 
 End Sub
-
-

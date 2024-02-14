@@ -153,7 +153,6 @@ C:\Users\radaaraujo\Documents\PROCESSO2\DESAFIO TECNICO - Rafael de Almeida Ara√
 C:\Users\radaaraujo\Documents\PROCESSO2\DESAFIO TECNICO - Rafael de Almeida Ara√∫jo\Arquivos\2- CSharp\API\Paschoalotto.Teste.Processo.PsfVeiculos\1 - Application\obj\Debug\net6.0\ref\1 - Application.dll
 C:\Users\radaaraujo\Documents\repo\Paschoalotto.Processo.PsfClientes\1 - Application\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\radaaraujo\Documents\repo\Paschoalotto.Processo.PsfClientes\1 - Application\bin\Debug\net6.0\appsettings.json
-C:\Users\radaaraujo\Documents\repo\Paschoalotto.Processo.PsfClientes\1 - Application\bin\Debug\net6.0\1 - Application.staticwebassets.runtime.json
 C:\Users\radaaraujo\Documents\repo\Paschoalotto.Processo.PsfClientes\1 - Application\bin\Debug\net6.0\1 - Application.exe
 C:\Users\radaaraujo\Documents\repo\Paschoalotto.Processo.PsfClientes\1 - Application\bin\Debug\net6.0\1 - Application.deps.json
 C:\Users\radaaraujo\Documents\repo\Paschoalotto.Processo.PsfClientes\1 - Application\bin\Debug\net6.0\1 - Application.runtimeconfig.json

@@ -200,12 +200,12 @@ Begin VB.Form ClientesFrm
          BeginProperty Panel1 {8E3867AB-8586-11D1-B16A-00C0F0283628} 
             Style           =   5
             Alignment       =   1
-            TextSave        =   "14:47"
+            TextSave        =   "17:12"
          EndProperty
          BeginProperty Panel2 {8E3867AB-8586-11D1-B16A-00C0F0283628} 
             Style           =   6
             Alignment       =   1
-            TextSave        =   "12/02/2024"
+            TextSave        =   "14/02/2024"
          EndProperty
          BeginProperty Panel3 {8E3867AB-8586-11D1-B16A-00C0F0283628} 
             Alignment       =   1
@@ -424,20 +424,21 @@ End Sub
 
 Public Sub cmdDeletarCliente_Click(Index As Integer)
 
-Dim IdCliente As String
+Dim idCliente As String
+
+    idCliente = Val(txtIdCliente.Text)
     
-    IdCliente = Val(txtIdCliente.Text)
-    DeletarCliente Index, IdCliente
+    DeletarCliente idCliente
     
     txtIdCliente = ""
 
 End Sub
 Public Sub cmdAtualizarCliente_Click()
 
-Dim IdCliente As String
-    
-    IdCliente = Val(txtIdCliente.Text)
-    AtualizaCliente IdCliente
+Dim idCliente As String
+
+    idCliente = Val(txtIdCliente.Text)
+    AtualizaCliente idCliente
     
     txtIdCliente = ""
 

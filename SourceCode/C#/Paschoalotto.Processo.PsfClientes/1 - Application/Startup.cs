@@ -5,7 +5,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
 
-namespace InventoryDataReader.Application
+namespace Paschoalotto.Processo.PsfClientes.Application
 {
     public class Startup
     {

@@ -66,11 +66,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\radaaraujo\\Documents\\repo\\Paschoalotto.Processo.PsfClientes\\4 - Domain\\4 - Domain.csproj",
+      "projectUniqueName": "C:\\Users\\radaaraujo\\Documents\\ClientesPSF\\SourceCode\\C#\\Paschoalotto.Processo.PsfClientes\\4 - Domain\\4 - Domain.csproj",
       "projectName": "4 - Domain",
-      "projectPath": "C:\\Users\\radaaraujo\\Documents\\repo\\Paschoalotto.Processo.PsfClientes\\4 - Domain\\4 - Domain.csproj",
+      "projectPath": "C:\\Users\\radaaraujo\\Documents\\ClientesPSF\\SourceCode\\C#\\Paschoalotto.Processo.PsfClientes\\4 - Domain\\4 - Domain.csproj",
       "packagesPath": "C:\\Users\\radaaraujo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\radaaraujo\\Documents\\repo\\Paschoalotto.Processo.PsfClientes\\4 - Domain\\obj\\",
+      "outputPath": "C:\\Users\\radaaraujo\\Documents\\ClientesPSF\\SourceCode\\C#\\Paschoalotto.Processo.PsfClientes\\4 - Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
