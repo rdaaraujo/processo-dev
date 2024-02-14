@@ -3,6 +3,7 @@
 Serviço de gestão de Clientes básico, criado em VB6 (PSF Clientes).
 
 1- Menu didático com as opções 'Novo', 'Editar', 'Apagar' e 'Fechar' funcionais.
+ 1.1- Somente as funções de 'Mostrar as informações no Grid' e a 'Deletar Todos os Clientes' estão diretas no Banco, as demais e 'principais estão sendo realizadas pela API'.
 
 2- Importação de clientes via Lote (em massa), selecionando o arquivo desejado (.csv, .txt, .xlsx e etc..) na máquina,
 sendo possível a importação ou cancelamento desta!
@@ -22,6 +23,7 @@ sendo possível a importação ou cancelamento desta!
 Basic Customer Management Service, developed in VB6 (PSF Cliente).
 
 1- User-friendly menu with functional options: 'New', 'Edit', 'Delete', and 'Close'.
+ 1.1- Only the functions 'Show information on the Grid' and 'Delete All Clients' are directly in the database, the others and 'main ones are being performed by the API'.
 
 2- Mass client import feature, enabling users to select desired file (.csv, .txt, .xlsx, etc..) on the machine, allowing either importation or cancellation.
 

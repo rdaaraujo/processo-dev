@@ -8,10 +8,15 @@ Dim line As String
 Dim fields() As String
 Dim isFirstLine As Boolean
 
+Dim url As String
+Dim jsonData As String
+Dim WinHttpReq As Object
+
+Set WinHttpReq = CreateObject("WinHttp.WinHttpRequest.5.1")
+
 isFirstLine = True
 
     If ArqImp <> "" Then
-        OpenConnection
         Set rs = CreateObject("ADODB.Recordset")
         
         filePath = "" & ArqImp & ""
@@ -29,25 +34,36 @@ isFirstLine = True
     
             fields = Split(line, ";")
             
-            ssql = "INSERT INTO psf_clientes (nome_str, situacao_str, cpf_str, data_nascimento, endereco_str, telefone_str, email_str) VALUES ('" & fields(1) & "', '" & fields(2) & "', '" & fields(3) & "', '" & fields(4) & "', '" & fields(5) & "', '" & fields(6) & "', '" & fields(7) & "')"
-            conn.Execute ssql
+            url = "http://localhost:7500/api/Values"
+
+            jsonData = "{""nome"": """ & fields(1) & """, ""situacao"": """ & fields(2) & """, ""cpf"": """ & fields(3) & """, ""dataNasc"": """ & fields(4) & """, ""endereco"": """ & fields(5) & """, ""telefone"": """ & fields(6) & """, ""email"": """ & fields(7) & """}"
+
+            WinHttpReq.Open "Post", url, False
+            WinHttpReq.setRequestHeader "Content-Type", "application/json"
+            WinHttpReq.send jsonData
             
 SkipLine:
         Loop
     
         Close #1
-        conn.Close
     
         Set rs = Nothing
-        Set conn = Nothing
     
-        MsgBox "Arquivo importado com sucesso ao Estoque!"
+        If WinHttpReq.Status = 200 Then
+            MsgBox "Arquivo importado com sucesso ao Estoque!"
+            
+            EscreveLog ("Arquivo '" & ArqImp & "' foi importado com sucesso ao Estoque!")
+    
+            LimpaDadosgridEstoque
+            ArqImp = ""
+            
+        Else
+            MsgBox "Erro na requisição: " & WinHttpReq.Status & " - " & WinHttpReq.StatusText
+            
+        End If
         
-        EscreveLog ("Arquivo '" & ArqImp & "' foi importado com sucesso ao Estoque!")
-        
-        LimpaDadosgridEstoque
-        ArqImp = ""
-        
+        Set WinHttpReq = Nothing
+    
     Else
         MsgBox "Não foi selecionado o arquivo para importação!"
         
@@ -55,37 +71,53 @@ SkipLine:
 
 End Sub
 
-Public Sub AtualizaCliente(IdCliente As String)
+Public Sub AtualizaCliente(idCliente As String)
 
 Dim ssql As String
 Dim rsId As Object
-    
+
+Dim url As String
+Dim WinHttpReq As Object
+
+    Set WinHttpReq = CreateObject("WinHttp.WinHttpRequest.5.1")
+
     GeralMod.OpenConnection
     
-    If IdCliente <> "" Then
+    If idCliente <> "" Then
     
         ssql = "SELECT pv.id, pv.situacao_str FROM psf_clientes pv " & _
-               "WHERE pv.id = " & IdCliente & ""
+               "WHERE pv.id = " & idCliente & ""
         Set rsId = conn.Execute(ssql)
         
         If Not rsId.EOF Then
             If UCase(rsId.fields("situacao_str").Value) <> "BAIXADO" Then
-                ssql = "UPDATE psf_clientes SET situacao_str = 'BAIXADO' " & _
-                " WHERE id = " & IdCliente & ";"
-                conn.Execute (ssql)
                 
-                MsgBox "Foi alterada a situacao do cliente com o Id " & IdCliente & "!"
+                url = "http://localhost:7500/api/Values?Id=" & idCliente & ""
+        
+                WinHttpReq.Open "Put", url, False
+                WinHttpReq.setRequestHeader "Content-Type", "application/json"
+                WinHttpReq.send
+    
+                If WinHttpReq.Status = 200 Then
+                    MsgBox "Foi alterada a situacao do cliente com o Id " & idCliente & "!"
                 
-                EscreveLog ("Foi alterado o status do cliente com o Id " & IdCliente & "!")
+                Else
+                    MsgBox "Erro na requisição: " & WinHttpReq.Status & " - " & WinHttpReq.StatusText
+                
+                End If
+                
+                Set WinHttpReq = Nothing
+
+                EscreveLog ("Foi alterado o status do cliente com o Id " & idCliente & "!")
                 
                 LimpaDadosgridEstoque
-                IdCliente = ""
+                idCliente = ""
             
             End If
         
         Else
             MsgBox "Não existe nenhum cliente com esse Id em seu Estoque!"
-            IdCliente = ""
+            idCliente = ""
             
         End If
     
@@ -96,33 +128,50 @@ Dim rsId As Object
 
 End Sub
 
-Public Sub DeletarCliente(Index As Integer, IdCliente As String)
+Public Sub DeletarCliente(idCliente As String)
 
 Dim ssql As String
 Dim rsId As Object
+
+Dim url As String
+Dim WinHttpReq As Object
+
+    Set WinHttpReq = CreateObject("WinHttp.WinHttpRequest.5.1")
     
     GeralMod.OpenConnection
     
-    If IdCliente <> "" Then
+    If idCliente <> "" Then
     
         ssql = "SELECT pv.id FROM psf_clientes pv " & _
-               "WHERE pv.id = " & IdCliente & ""
+               "WHERE pv.id = " & idCliente & ""
         Set rsId = conn.Execute(ssql)
         
         If Not rsId.EOF Then
-            ssql = "DELETE FROM psf_clientes pv WHERE pv.id = " & IdCliente & ";"
-            conn.Execute (ssql)
             
-            MsgBox "O cliente com Id IdCliente foi deletado de seu Estoque!"
+            url = "http://localhost:7500/api/Values?Id=" & idCliente & ""
+        
+            WinHttpReq.Open "Delete", url, False
+            WinHttpReq.setRequestHeader "Content-Type", "application/json"
+            WinHttpReq.send
             
+            If WinHttpReq.Status = 200 Then
+                    MsgBox "O cliente com Id IdCliente foi deletado de seu Estoque!"
+                
+                Else
+                    MsgBox "Erro na requisição: " & WinHttpReq.Status & " - " & WinHttpReq.StatusText
+                
+                End If
+                
+                Set WinHttpReq = Nothing
+
             EscreveLog ("O cliente com Id IdCliente foi deletado de seu Estoque!")
             
             AjusteMod.LimpaDadosgridEstoque
-            IdCliente = ""
+            idCliente = ""
             
         Else
             MsgBox "Não existe nenhum cliente com esse Id em seu Estoque!"
-            IdCliente = ""
+            idCliente = ""
         End If
     
     Else

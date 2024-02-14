@@ -2,7 +2,7 @@ using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Hosting;
 
-namespace InventoryDataReader.Application
+namespace Paschoalotto.Processo.PsfClientes.Application
 {
     public class Program
     {

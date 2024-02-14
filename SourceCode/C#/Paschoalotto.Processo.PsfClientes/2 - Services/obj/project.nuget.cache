@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G5Mx1JgULFQlNqXKkVFT+ndiARmPdSVdmYMsRyj0S7t7FV3e10zauKcDz17nkzf82nCrL1NNrVkZLo5C5vKNrg==",
+  "dgSpecHash": "ATfY0Lk9EBdyjbFWr7mfb9XPVG+8vdyxPf5KCpuOuNa5ubCWMuK/iGmNx9mo6Oq98MtvBeAhCiK/umigQW6TdQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\radaaraujo\\Documents\\repo\\Paschoalotto.Processo.PsfClientes\\2 - Services\\2 - Services.csproj",
+  "projectFilePath": "C:\\Users\\radaaraujo\\Documents\\ClientesPSF\\SourceCode\\C#\\Paschoalotto.Processo.PsfClientes\\2 - Services\\2 - Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\radaaraujo\\.nuget\\packages\\jquery\\3.6.4\\jquery.3.6.4.nupkg.sha512",
     "C:\\Users\\radaaraujo\\.nuget\\packages\\jquery.mask\\1.14.16\\jquery.mask.1.14.16.nupkg.sha512",
