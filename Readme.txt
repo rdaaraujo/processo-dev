@@ -14,8 +14,6 @@ sendo possível a importação ou cancelamento desta!
 
 5- View dos clientes presentes no BD (somente visualização).
 
-6- API foi criada e executa 'perfeitamente' todo o processo do crud solicitado, apenas não foi realizada a conexão desta ao programa em VB6.
-
 ------------------------------------------------------------------------------------------------------------------------
 
 [EN-US]
@@ -32,5 +30,3 @@ Basic Customer Management Service, developed in VB6 (PSF Cliente).
 4- Delete all clients in the database with a single click (with option to cancel in the dialog box).
 
 5- View of clients present in the database (for visualization purposes only).
-
-6- The API was created and performs 'perfectly' the entire CRUD process requested, only the connection to the VB6 program has not been implemented.
